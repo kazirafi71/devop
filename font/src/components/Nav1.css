@@ -1,0 +1,11 @@
+.nav__style{
+    display: inline;
+}
+
+.nav__head{
+    background: #1D1F37;
+}
+
+.border__style{
+    border-bottom:#007F3D 15px solid;
+}
